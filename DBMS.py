@@ -371,4 +371,5 @@ while Exit == "No":
             "tsv"
             ''')
 
+print(Databases)
 time.sleep(50)
